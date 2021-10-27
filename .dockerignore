@@ -1,0 +1,7 @@
+# To decrease docker image size - ignore everything
+*
+
+# except
+!src
+!package*.json
+!tsconfig*.json
